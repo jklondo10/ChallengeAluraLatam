@@ -1,4 +1,6 @@
 <img width="1508" alt="image" src="https://github.com/user-attachments/assets/5e355c9b-16af-4996-9317-069e7b6fc1f3">
+<img width="1503" alt="image" src="https://github.com/user-attachments/assets/988324ae-9a30-44d4-a0c3-73bc04161f46">
+
 
 
 #  🛰️ Encriptador
